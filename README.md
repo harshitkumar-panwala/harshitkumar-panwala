@@ -8,6 +8,7 @@ With hands-on experience in various cybersecurity projects and tools, I’m exci
 
   - [SIEM in Microsoft Sentinel](https://github.com/harshitkumar-panwala/SIEM-in-Microsoft-Sentinel)
   - [Vulnerability Management](https://github.com/harshitkumar-panwala/Vulnerability-Management)
+  - [Active Directory Home Lab](https://github.com/harshitkumar-panwala/Active-Directory-Home-Lab)
 
 <h2>👨‍💻 Certifications</h2>
 
